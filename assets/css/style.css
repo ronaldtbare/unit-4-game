@@ -1,0 +1,47 @@
+body{
+    background-color: azureblue;
+    background-image: url("../images/bluebackground.jpg");
+    
+}
+
+.instructions{
+    background-color:white;
+    color:green;
+    font-size: 20px; 
+}
+
+
+.mainTitle{
+    color: white;
+    background-color: orange;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 10px;
+}
+
+.targetNumber{
+    background-color: aqua;
+    height: 125px;
+}
+
+.targetNum{
+    font-size: 50px;
+}
+.winsLosses{
+    background-color: aqua;
+}
+
+.gems {
+    display: inline;
+    height:auto;
+    
+}
+
+.totalScore{
+    background-color: aqua;
+    height: 150px;
+}
+
+.totalScoreLabel{
+    background-color: aqua;
+}
